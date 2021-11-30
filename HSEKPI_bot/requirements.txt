@@ -1,0 +1,17 @@
+streamlit==0.82.0
+pyTelegramBotAPI
+python-telegram-bot
+joblib
+nltk
+psycopg2 
+matplotlib==3.2.2
+numpy==1.19.3
+requests==2.23.0
+seaborn==0.11.1
+pandas==1.1.5
+XlsxWriter==1.4.3
+plotly==4.4.1
+ics==0.7
+Pillow==8.2.0
+scikit_learn==0.24.2
+
